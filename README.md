@@ -18,7 +18,7 @@ Distributed under the MIT License. See `LICENSE` for more information: [link](LI
 
 </details>
 <details><summary>Dev Tips</summary>
-make git m="Marc Aubanel is Awesome."
+Marc Aubanel gave me base template.
 </details>
 
 
