@@ -7,7 +7,7 @@
 ## Setting UP, Dev Mode, and APK/Build Install
 
 
-<kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up Your Meta Quest Headset](SettingUpMetaHD) <br>
 
 <!-- LICENSE -->
 ## License
