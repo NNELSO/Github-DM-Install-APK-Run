@@ -17,7 +17,7 @@ Distributed under the MIT License. See `LICENSE` for more information: [link](LI
 
 </details>
 <details><summary>Dev Tips</summary>
-make git m="add commit message"
+make git m="Marc Aubanel is Awesome."
 </details>
-![](../images/line3.png)
+
 
