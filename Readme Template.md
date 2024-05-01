@@ -1,4 +1,4 @@
-![MetaQuest3.png](Github-DM-Install-APK-Run/SettingUpMetaHD/Images/MetaQuest3.png)
+![MetaQuest3.png](SettingUpMetaHD(Images(MetaQuest3.png)))
 
 ### Add Title
 
