@@ -7,8 +7,7 @@
 ## Setting UP, Dev Mode, and APK/Build Install
 <!-- TOC -->
 
-<kbd></kbd> &nbsp;&nbsp; [Setting Up Your Meta Quest Headset](SettingUpMetaHD(SettingUpMetaHD.md
-)) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up Your Meta Quest Headset](SettingUpMetaHD)(SettingUpMetaHD.md)<br>
 
 <kbd></kbd> &nbsp;&nbsp; [Putting Headset into Developer Mode](DevMode) <br>
 
