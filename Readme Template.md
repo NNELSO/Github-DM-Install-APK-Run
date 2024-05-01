@@ -1,4 +1,4 @@
-![MetaQuest3.png](SettingUpMetaHD(Images(MetaQuest3.png)))
+[![MetaQuest3.png](SettingUpMetaHD(Images(MetaQuest3.png)))
 
 ### Add Title
 
@@ -146,3 +146,4 @@ Chapter introduction here.
 
 | [previous](../)| [home](../README.md#user-content-ue5-cpp-functions--templates--classes) | [next](../)|
 |---|---|---|
+](https://gist.github.com/NNELSO/3409738fd2e6e854c43f2f24500307a2)
