@@ -21,6 +21,7 @@
 </details>
 <details><summary>License</summary>
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).
+</details>
 
 </details>
 <details><summary>Dev Tips</summary>
