@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/contentModel.xml
 /modules.xml
 /projectSettingsUpdater.xml
-/.idea.Github-DM-Install-APK-Run.iml
+/contentModel.xml
+/.idea.UE5-CPP-Sequences-main.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
