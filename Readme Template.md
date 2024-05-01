@@ -2,7 +2,7 @@
 
 ### Add Title
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-cpp-functions--templates--classes) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md) • [next](../)</sub>
 
 ![](../images/line3.png)
 
