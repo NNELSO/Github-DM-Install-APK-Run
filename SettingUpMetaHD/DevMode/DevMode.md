@@ -135,5 +135,8 @@ The Menu should look like about.<br>
 
 
 
+
 ---
+>Previous: [Beginning](/SettingUpMetaHD/SettingUpMedaHD.md) |
 >Next: [SideQuest and Sideload](SideQL/SideQL.md)
+---
