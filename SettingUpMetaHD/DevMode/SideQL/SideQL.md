@@ -86,7 +86,7 @@
     * If it is not an option, restart your Meta Quest Headset and repeat the "Inside your Meta Quest Headset"<br>
 ---
 <br>
-<img height="80%" src="Images/FindBuild.png" width="80%"/><br>
+<img height="80%" src="Images/FindBuild.png" width="80%"/>
 
   * Now you should be able to find you Build.
     * Keep in mind that the name is the name on the build and may not match up with the name on your APK file.
