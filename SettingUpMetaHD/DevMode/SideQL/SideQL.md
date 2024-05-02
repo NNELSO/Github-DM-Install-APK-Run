@@ -41,7 +41,6 @@
 <img height="70%" src="Images/SQGreenCon.png" width="70%"/><br>
 
 * Now you are ready to upload your APK to your headset.<br>
-<br>
 
 ---
 
