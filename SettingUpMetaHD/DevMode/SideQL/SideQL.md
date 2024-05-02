@@ -74,6 +74,6 @@ On Your Menu Bar<br>
 <br>
 <img height="80%" src="Images/OpenLib.png" width="80%"/>
 
-* On the Right side click on the Library Menu<br>
+* On the Right side click on the "Library Menu"<br>
 
 
