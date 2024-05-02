@@ -1,4 +1,4 @@
-# SETTING UP YOUR META QUEST HEADSET
+# Wlecome to Getting Started
 ![Meta3HD.png](Meta3HD.png)
 ---
 
