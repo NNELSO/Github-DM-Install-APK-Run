@@ -10,7 +10,7 @@
 ---
 
 ## 1 Search: Meta quest developer <br>
-<img height="70%" src="Images/SearchMetaDev.png" width="70%"/><br>
+<img height="80%" src="Images/SearchMetaDev.png" width="80%"/><br>
 ---
 <br>
 <br>
@@ -23,7 +23,7 @@
 ## 2 Click Sign Up
 
 ---
-<img height="70%" src="Images/MetaSignup.png" width="70%"/><br>
+<img height="80%" src="Images/MetaSignup.png" width="80%"/><br>
 ---
 <br>
 
@@ -34,7 +34,7 @@
 ## 3 Create a Meta account
 
 ---
-<img height="70%" src="Images/CreateMetaAccount.png" width="70%"/><br>
+<img height="80%" src="Images/CreateMetaAccount.png" width="80%"/><br>
 ---
 <br>
 
@@ -49,7 +49,7 @@
 ## 4 Create a New Organization
 
 ---
-<img height="70%" src="Images/NewOrganizationEnterName.png" width="70%"/><br>
+<img height="80%" src="Images/NewOrganizationEnterName.png" width="80%"/><br>
 ---
 <br>
 
@@ -63,22 +63,22 @@
 ## 5 Double Authentication
 
 ---
-<img height="70%" src="Images/DoubleAuthMeta.png" width="70%"/><br>
+<img height="80%" src="Images/DoubleAuthMeta.png" width="80%"/><br>
 ---
 <br>
 
 * Choose the Verification Option <br>
 * This will open up two options to authenticate your account.<br>
 * Choose the "Two-Factor" method by "Phone Number".<br>
-* * Not saying you can't do the other but the phone number is quicker.<br>
-  <br>
-  <br>
+  * Not saying you can't do the other but the phone number is quicker.<br>
+    <br>
+    <br>
 
 
 ## Turning on Developer Mode Via your Meta Phone App
 
 ---
-<img height="70%" src="Images/1OpenMenuMetaApp.png" width="70%"/><br>
+<img height="80%" src="Images/1OpenMenuMetaApp.png" width="80%"/><br>
 ---
 <br>
 
@@ -87,7 +87,7 @@
   <br>
   <br>
 ---
-<img height="70%" src="Images/2SelectDevicebut.png" width="70%"/><br>
+<img height="80%" src="Images/2SelectDevicebut.png" width="80%"/><br>
 ---
 <br>
 
@@ -95,16 +95,16 @@
   <br>
   <br>
 ---
-<img height="70%" src="Images/3ChooseYourHeadset.png" width="70%"/><br>
+<img height="80%" src="Images/3ChooseYourHeadset.png" width="80%"/><br>
 ---
 <br>
 
 * Choose Your Headset.<br>
-* * The SN, which can be found in very small print on the left strap arm, will be after the word connected.<br>
-  <br>
-  <br>
+  * The SN, which can be found in very small print on the left strap arm, will be after the word connected.<br>
+    <br>
+    <br>
 ---
-<img height="70%" src="Images/4Go2HSSettings.png" width="70%"/><br>
+<img height="80%" src="Images/4Go2HSSettings.png" width="80%"/><br>
 ---
 <br>
 
@@ -112,7 +112,7 @@
   <br>
   <br>
 ---
-<img height="70%" src="Images/5HSMenu.png" width="70%"/><br>
+<img height="80%" src="Images/5HSMenu.png" width="80%"/><br>
 ---
 The Menu should look like about.<br>
 
@@ -120,7 +120,7 @@ The Menu should look like about.<br>
   <br>
   <br>
 ---
-<img height="70%" src="Images/6DeveloperModeTog.png" width="70%"/><br>
+<img height="80%" src="Images/6DeveloperModeTog.png" width="80%"/><br>
 ---
 <br>
 
