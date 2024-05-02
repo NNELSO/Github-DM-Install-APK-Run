@@ -18,7 +18,7 @@
 <br>
 
 ---
->Next: [SettingUpMetaHD](SettingUpMetaHD.md)
+>Next: [SettingUpMetaHD](SettingUpMetaHD/SettingUpMedaHD.md)
 
 ---
 <!-- LICENSE -->
