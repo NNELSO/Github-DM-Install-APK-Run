@@ -34,6 +34,7 @@
   <img height="70%" src="Images/AllowDebug.png" width="70%"/>
     * Allow the Debug prompt in your Headset.<br>
   <br>
+    
 ---
 
 <br>
@@ -42,7 +43,11 @@
 <img height="70%" src="Images/SQGreenCon.png" width="70%"/><br>
 <br>
 <br>
+
 ---
+
+<br>
+
 ## Uploading your APK/Build and Find it in your Meta Quest 3 Headset.
 
 ---
