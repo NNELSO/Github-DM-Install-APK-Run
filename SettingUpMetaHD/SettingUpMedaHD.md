@@ -10,8 +10,6 @@
 ---
 
 ## Download The Meta App <br>
-<br>
-![1HDSDownloadApp.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FAppData%2FLocal%2FTemp%2F1HDSDownloadApp.png)
 <img height="70%" src="Images/1HDSDownloadApp.png" width="70%"/>
 ---
 * You will want to download the Meta App from the apple play store or google play store.<br>
