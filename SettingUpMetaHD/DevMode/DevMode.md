@@ -12,8 +12,7 @@
 ## 1 Search: Meta quest developer <br>
 <img height="70%" src="Images/SearchMetaDev.png" width="70%"/><br>
 ---
----
-
+<br>
 <br>
 
 * Search: Meta Quest Developer. <br>
