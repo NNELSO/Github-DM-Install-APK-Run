@@ -21,11 +21,11 @@
 <br>
 
 ## Connecting Your Headset to Your Meta App
-
 ---
-
-<img height="70%" src="Images/2HDSNewHD.png" width="70%"/>
+<img height="70%" src="Images/2HDSNewHD.png" width="70%"/><br>
+---
 <br>
+
 * In the lower right hand corner select "Menu". <br>
 * Then press the Devices Square. <br>
 * Choose Connect new device, if it is a new headset or chose your headset if it it is not currently paired.
@@ -35,8 +35,10 @@
 ## Select Your Device
 
 ---
-<img height="70%" src="Images/3HDSchooseHDT.png" width="70%"/>
+<img height="70%" src="Images/3HDSchooseHDT.png" width="70%"/><br>
+---
 <br>
+
 * Choose Your device, which should be the Meta Quest 3. <br>
 <br>
 
