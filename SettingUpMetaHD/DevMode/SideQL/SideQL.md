@@ -62,6 +62,12 @@
 * Locate your APK File <br>
   * Selected your APK <br>
   * Press Open <br>
+<br>
+
+---
+## Finding your APK in your Meta Quest 3
+
+---
 
 
 
