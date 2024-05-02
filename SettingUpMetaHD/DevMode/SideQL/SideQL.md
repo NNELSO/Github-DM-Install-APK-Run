@@ -78,7 +78,8 @@
 * On the Right side click on the "Library Menu"<br>
 ---
 <br>
-From there, select the drop down menu that is shown below.
+
+#### From there, select the drop down menu that is shown below.
 <img height="80%" src="Images/UnknownSoures.png" width="80%"/>
 
 * Go down to the bottom of that drop down menu and select the Unknown Sources.<br>
