@@ -80,6 +80,10 @@
   <br>
   <br>
 
+---
+## Yay! <br>
+Now you can move on to putting it into Developer Mode.
+
 
 
 ---
