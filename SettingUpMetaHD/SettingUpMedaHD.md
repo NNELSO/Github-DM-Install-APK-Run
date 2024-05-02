@@ -87,5 +87,6 @@ Now you can move on to putting it into Developer Mode.
 
 
 ---
+>Previous: [Beginning](/README.md)
 >Next: [Developer Mode](DevMode/DevMode.md)
 ---
