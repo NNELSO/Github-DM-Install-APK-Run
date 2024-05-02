@@ -91,3 +91,7 @@
   * Now you should be able to find you Build.
     * Keep in mind that the name is the name on the build and may not match up with the name on your APK file.
 
+---
+>Previous: [Developer Mode](/SettingUpMetaHD/DevMode/DevMode.md) |
+>Beginning: [Home](/README.md)
+---
