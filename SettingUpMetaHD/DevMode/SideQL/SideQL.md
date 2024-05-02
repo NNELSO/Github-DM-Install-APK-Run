@@ -30,7 +30,9 @@
 * In the Photo above you can see that the headset is not connected.<br>
 * Must often it is because your headset is not connected<br>
   * Plug in your headset using your c to c charging cord.<br>
+<br>
 <img height="70%" src="Images/AllowDebug.png" width="70%"/><br>
+<br>
 * Allow the Debug prompt in your Headset.<br>
 <br>
 * This should change all four of your connection status lights to Green.<br>
