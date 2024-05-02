@@ -6,6 +6,16 @@
 <br>
 ---
 
-## 
+## Search SideQuest
 
 ---
+<img height="70%" src="Images/SearchSQ.png" width="70%"/><br>
+<br>
+* Download SideQuest onto your computer
+  * Here is the link if you can't find it: https://sidequestvr.com/download
+  * Choose the installer for your computer.
+  * Install SideQuest
+
+---
+## Open SideQuest on Your Computer
+
