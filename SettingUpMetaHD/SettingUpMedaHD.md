@@ -43,5 +43,44 @@
 <br>
 <br>
 
+## Wifi
+
+---
+<img height="70%" src="Images/4HDSwifi.png" width="70%"/><br>
+---
+<br>
+
+* Make sure your headset is connected to the same wifi that your device is connected to. <br>
+* If you do not have wifi in the area a hotspot will work but it will be more difficult.<br>
+  <br>
+  <br>
+
+## Avatar
+
+---
+<img height="70%" src="Images/5HDSavatar.png" width="70%"/><br>
+---
+<br>
+
+* This step is not that important. <br>
+  <br>
+  <br>
+
+
+## Final Step
+
+---
+<img height="70%" src="Images/6HDSpin.png" width="70%"/><br>
+---
+<br>
+
+* The app will prompt you to enter a pin. <br>
+* Look in your Meta Quest headset and there should be a five digit pin.<br>
+* Once the pin is entered your Meta App should be connected to your Meta Quest 3 Headset.<br>
+  <br>
+  <br>
+
+
+
 ---
 >Next: [DevMode](DevMode.md)
