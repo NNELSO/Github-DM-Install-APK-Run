@@ -3,7 +3,7 @@
 ---
 
 <br>
-<img height="70%" src="Images/DevMode.png" width="70%"/>
+<img height="80%" src="Images/DevMode.png" width="80%"/>
 <br>
 <br>
 
@@ -49,7 +49,7 @@
 ## 4 Create a New Organization
 
 ---
-<img height="80%" src="Images/NewOrganizationEnterName.png" width="80%"/><br>
+<img height="80%" src="Images/NewOrganizationEnterName.png" width="90%"/><br>
 ---
 <br>
 
@@ -63,7 +63,7 @@
 ## 5 Double Authentication
 
 ---
-<img height="80%" src="Images/DoubleAuthMeta.png" width="80%"/><br>
+<img height="80%" src="Images/DoubleAuthMeta.png" width="90%"/><br>
 ---
 <br>
 
