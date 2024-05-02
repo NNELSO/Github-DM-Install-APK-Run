@@ -75,5 +75,10 @@ On Your Menu Bar<br>
 <img height="80%" src="Images/OpenLib.png" width="80%"/>
 
 * On the Right side click on the "Library Menu"<br>
+---
+<br>
+From there, select the drop down menu 
+<img height="80%" src="Images/UnknownSoures.png" width="80%"/>
+
 
 
