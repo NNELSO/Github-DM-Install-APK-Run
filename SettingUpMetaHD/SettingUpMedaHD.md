@@ -12,6 +12,7 @@
 ## Download The Meta App <br>
 <img height="70%" src="Images/1HDSDownloadApp.png" width="70%"/>
 ---
+<br>
 * You will want to download the Meta App from the apple play store or google play store.<br>
 * After opening and signing in to the app, make sure your headset is powered up. <br>
 
