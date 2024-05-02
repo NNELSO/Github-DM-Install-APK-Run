@@ -24,8 +24,8 @@
 <img height="70%" src="Images/OpenSQ.png" width="70%"/><br>
 * Open SideQuest App on your Computer<br>
 <br>
+
 ---
-<br>
 
 <img height="70%" src="Images/SQopenFixCon.png" width="70%"/><br>
 <br>
