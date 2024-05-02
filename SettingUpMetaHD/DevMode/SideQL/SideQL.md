@@ -49,7 +49,7 @@
 ## Uploading your APK/Build and Find it in your Meta Quest 3 Headset.
 
 ---
-
 <br>
+<img height="70%" src="Images/SQDownloadHere.png" width="70%"/><br>
 
 
