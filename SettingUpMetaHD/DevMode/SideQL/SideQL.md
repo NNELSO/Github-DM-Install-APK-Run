@@ -37,7 +37,6 @@
   <br>
     
 ---
-
 <br>
 
 * This should change all four of your connection status lights to Green.<br><br>
