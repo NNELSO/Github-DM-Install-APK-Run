@@ -135,4 +135,4 @@ The Menu should look like about.<br>
 
 
 ---
->Next: [SideQuest/SideLoad](SideQL/SideQL.md)
+>Next: [SideQuest and Sideload](SideQL/SideQL.md)
