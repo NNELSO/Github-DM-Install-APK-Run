@@ -59,4 +59,9 @@
   * This will open the file explorer for you to find your APK/Build File.<br>
 <br>
   <img height="100%" src="Images/SQFindAPK.png" width="100%"/><br>
+* Locate your APK File <br>
+  * Selected your APK <br>
+  * Press Open <br>
+
+
 
