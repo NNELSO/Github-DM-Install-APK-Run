@@ -21,9 +21,11 @@
 
 ---
 <img height="70%" src="Images/OpenSQ.png" width="70%"/><br>
+* Open SideQuest App on your Computer<br>
 <br>
-* Open SideQuest App on your Computer
 ---
+<br>
+
 <img height="70%" src="Images/SQopenFixCon.png" width="70%"/><br>
 <br>
 * Click on the "Open Setup Instructions" Button, the above screen will open.<br>
@@ -51,5 +53,7 @@
 ## Uploading your APK/Build and Find it in your Meta Quest 3 Headset.
 
 ---
+
+<br>
 
 
