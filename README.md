@@ -11,7 +11,7 @@
 
 <kbd></kbd> &nbsp;&nbsp; [Putting Headset into Developer Mode](DevMode/DevMode.md) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [SideQuest and Sideload](DevMode/DevMode.md) <br>
+<kbd></kbd> &nbsp;&nbsp; [SideQuest and Sideload](SideQL/SideQL.md) <br>
 
 <!-- TOC -->
 <br>
