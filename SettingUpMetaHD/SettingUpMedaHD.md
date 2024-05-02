@@ -88,3 +88,4 @@ Now you can move on to putting it into Developer Mode.
 
 ---
 >Next: [Developer Mode](DevMode/DevMode.md)
+---
