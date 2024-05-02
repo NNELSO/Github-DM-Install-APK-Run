@@ -55,7 +55,7 @@
 
 * Go back to the home screen.<br>
 * You should now see a green circle in the upper left hand corner.<br>
-* Click on the square with the downward  arrow on that is circled on the top right side of the screen.<br>
+* Click on the square with the downward  arrow on that is circled on the top right side of the screen.<br><br>
   * This will open the file explorer for you to find your APK/Build File.<br>
 <br>
   <img height="100%" src="Images/SQFindAPK.png" width="100%"/><br>
