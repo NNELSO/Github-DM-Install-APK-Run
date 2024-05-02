@@ -37,7 +37,6 @@
   <br>
     
 ---
-<br>
 
 * This should change all four of your connection status lights to Green.<br><br>
 <img height="70%" src="Images/SQGreenCon.png" width="70%"/><br>
