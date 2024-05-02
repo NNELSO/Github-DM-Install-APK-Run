@@ -70,7 +70,8 @@
 ---
 ### Inside your Meta Quest Headset
 <br>
-On Your Menu Bar<br>
+
+#### On Your Menu Bar<br>
 <br>
 <img height="80%" src="Images/OpenLib.png" width="80%"/>
 
