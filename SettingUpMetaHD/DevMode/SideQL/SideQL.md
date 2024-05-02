@@ -31,9 +31,9 @@
 * Must often it is because your headset is not connected<br>
   * Plug in your headset using your c to c charging cord.<br>
 <br>
-<img height="70%" src="Images/AllowDebug.png" width="70%"/><br>
-  * Allow the Debug prompt in your Headset.<br>
-  
+  <img height="70%" src="Images/AllowDebug.png" width="70%"/>
+    * Allow the Debug prompt in your Headset.<br>
+  <br>
 ---
 
 <br>
