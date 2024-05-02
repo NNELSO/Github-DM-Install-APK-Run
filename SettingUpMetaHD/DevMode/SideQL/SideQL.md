@@ -13,8 +13,8 @@
 <br>
 * Download SideQuest onto your computer
   * Here is the link if you can't find it: https://sidequestvr.com/download
-  * Choose the installer for your computer.
-  * Install SideQuest
+  * Choose the installer for your computer
+  * Install SideQuest <br>
 
 ---
 ## Open SideQuest on Your Computer and Connect Headset
