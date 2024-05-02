@@ -1,5 +1,6 @@
 # SETTING UP YOUR META QUEST HEADSET
 ![Meta3HD.png](Meta3HD.png)
+---
 
 <br>
 ---
