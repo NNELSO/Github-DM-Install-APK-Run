@@ -10,8 +10,9 @@
 ---
 
 ## Download The Meta App <br>
-<img height="70%" src="Images/1HDSDownloadApp.png" width="70%"/>
+<img height="70%" src="Images/1HDSDownloadApp.png" width="70%"/><br>
 ---
+
 <br>
 
 * You will want to download the Meta App from the apple play store or google play store.<br>
