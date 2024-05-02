@@ -2,7 +2,7 @@
 ![Meta3HD.png](Meta3HD.png)
 
 <br>
-
+---
 
 ## Setting UP, Dev Mode, and APK/Build Install
 <!-- TOC -->
@@ -17,6 +17,10 @@
 <br>
 <br>
 
+---
+>Next: [SettingUpMetaHD](SettingUpMetaHD.md)
+
+---
 <!-- LICENSE -->
 </details>
 <details><summary>License</summary>
