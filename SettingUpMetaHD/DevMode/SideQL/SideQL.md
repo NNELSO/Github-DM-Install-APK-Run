@@ -69,5 +69,10 @@
 
 ---
 ### Inside your Meta Quest Headset
+<br>
+On Your Menu Bar<br>
+<img height="80%" src="Images/OpenLib.png" width="80%"/><br>
+
+* On the Right side click on the Library Menu<br>
 
 
