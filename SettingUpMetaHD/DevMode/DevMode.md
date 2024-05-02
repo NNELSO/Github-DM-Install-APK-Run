@@ -21,6 +21,7 @@
 <br>
 
 ## 2 Click Sign Up
+
 ---
 <img height="70%" src="Images/MetaSignup.png" width="70%"/><br>
 ---
