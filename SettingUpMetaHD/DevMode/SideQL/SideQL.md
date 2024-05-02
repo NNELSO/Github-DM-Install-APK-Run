@@ -1,4 +1,5 @@
 
 # Getting Started With SideQuest<br>
 ---
-<img height="80%" src="Images/SideQuestLogo.png" width="80%"/>
+<img height="80%" src="Images/SideQuestLogo.png" width="80%"/><br>
+<br>
