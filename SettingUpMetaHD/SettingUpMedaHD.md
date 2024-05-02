@@ -3,7 +3,7 @@
 ---
 
 <br>
-<img height="70%" src="Images/MetaQuest3.png" width="70%"/>
+<img height="80%" src="Images/MetaQuest3.png" width="80%"/>
 <br>
 <br>
 
