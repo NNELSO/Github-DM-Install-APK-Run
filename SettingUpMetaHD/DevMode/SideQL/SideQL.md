@@ -23,7 +23,6 @@
 ---
 <img height="70%" src="Images/OpenSQ.png" width="70%"/><br>
 * Open SideQuest App on your Computer<br>
-<br>
 
 ---
 
