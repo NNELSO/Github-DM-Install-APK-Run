@@ -78,7 +78,10 @@ On Your Menu Bar<br>
 ---
 <br>
 From there, select the drop down menu that is shown below.
-<img height="80%" src="Images/UnknownSoures.png" width="80%"/>
+<img height="80%" src="Images/UnknownSoures.png" width="80%"/><br>
+
+* Go down to the bottom of that drop down menu and select the Unknown Sources.<br>
+  * If it is not an option, restart your Meta Quest Headset and repeat the "Inside your Meta Quest Headset"<br>
 
 
 
