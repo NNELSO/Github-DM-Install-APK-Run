@@ -1,4 +1,4 @@
-# Wlecome to Getting Started
+# Welcome to Getting Started
 ![Meta3HD.png](Meta3HD.png)
 ---
 
